@@ -1,0 +1,10 @@
+canvas{
+    border-radius: 400px;
+    border-width: 2px;
+    border-color: indigo;
+    border-style: dotted;
+    background-color: aqua;
+}
+body{
+    background-color: limegreen;
+}
